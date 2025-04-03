@@ -194,6 +194,7 @@ docker.io/grafana/*
 docker.io/graphiteapp/graphite-statsd
 docker.io/graylog/graylog
 docker.io/graylog/graylog-datanode
+docker.io/greatsql/*
 docker.io/greenbone/*
 docker.io/guacamole/*
 docker.io/guiji2025/*
